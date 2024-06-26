@@ -1,0 +1,1319 @@
+Shooter: Amanda added to the queue. Remaining Bullets: 13
+Shooter: Ruth added to the queue. Remaining Bullets: 10
+Shooter: Kennan added to the queue. Remaining Bullets: 19
+Shooter: Kelsie added to the queue. Remaining Bullets: 16
+Shooter: Patrick added to the queue. Remaining Bullets: 11
+Shooter: Anastasia added to the queue. Remaining Bullets: 11
+Shooter: Samson added to the queue. Remaining Bullets: 9
+Shooter: Jacqueline added to the queue. Remaining Bullets: 23
+Shooter: Driscoll added to the queue. Remaining Bullets: 9
+Shooter: Callie added to the queue. Remaining Bullets: 23
+Shooter: Amela added to the queue. Remaining Bullets: 16
+Shooter: Jana added to the queue. Remaining Bullets: 17
+Shooter: Cameron added to the queue. Remaining Bullets: 10
+Shooter: Lester added to the queue. Remaining Bullets: 16
+Shooter: Adam added to the queue. Remaining Bullets: 5
+Shooter: Francis added to the queue. Remaining Bullets: 23
+Shooter: Courtney added to the queue. Remaining Bullets: 23
+Shooter: Jillian added to the queue. Remaining Bullets: 9
+Shooter: Gil added to the queue. Remaining Bullets: 15
+Shooter: Shay added to the queue. Remaining Bullets: 8
+Shooter: Rylee added to the queue. Remaining Bullets: 21
+Shooter: Myles added to the queue. Remaining Bullets: 7
+Shooter: Illana added to the queue. Remaining Bullets: 11
+Shooter: Ria added to the queue. Remaining Bullets: 11
+Shooter: Ira added to the queue. Remaining Bullets: 13
+Shooter: Xenos added to the queue. Remaining Bullets: 9
+Shooter: Athena added to the queue. Remaining Bullets: 13
+Shooter: Linda added to the queue. Remaining Bullets: 5
+Shooter: Armando added to the queue. Remaining Bullets: 10
+Shooter: Zorita added to the queue. Remaining Bullets: 10
+Shooter: Kevyn added to the queue. Remaining Bullets: 22
+Shooter: Ivy added to the queue. Remaining Bullets: 12
+Shooter: Henry added to the queue. Remaining Bullets: 17
+Shooter: Bree added to the queue. Remaining Bullets: 12
+Shooter: Armando added to the queue. Remaining Bullets: 5
+Shooter: Dean added to the queue. Remaining Bullets: 24
+Shooter: Ray added to the queue. Remaining Bullets: 4
+Shooter: Joseph added to the queue. Remaining Bullets: 9
+Shooter: Miriam added to the queue. Remaining Bullets: 5
+Shooter: Zia added to the queue. Remaining Bullets: 4
+Shooter: Ivana added to the queue. Remaining Bullets: 10
+Shooter: Francesca added to the queue. Remaining Bullets: 20
+Shooter: Sharon added to the queue. Remaining Bullets: 15
+Shooter: Ebony added to the queue. Remaining Bullets: 20
+Shooter: Selma added to the queue. Remaining Bullets: 22
+Shooter: Cameran added to the queue. Remaining Bullets: 12
+Shooter: Yardley added to the queue. Remaining Bullets: 19
+Shooter: Erin added to the queue. Remaining Bullets: 5
+Shooter: Cynthia added to the queue. Remaining Bullets: 18
+Shooter: Ezra added to the queue. Remaining Bullets: 8
+--------------------------------------------------------------------
+Amanda needs to shoot 12 more bullets
+Amanda was sent back to the queue. Remaining bullets: 12
+Ruth needs to shoot 9 more bullets
+Ruth was sent back to the queue. Remaining bullets: 9
+Kennan needs to shoot 18 more bullets
+Kennan was sent back to the queue. Remaining bullets: 18
+Kelsie needs to shoot 15 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 15
+Patrick needs to shoot 10 more bullets
+Patrick was sent back to the queue. Remaining bullets: 10
+Anastasia needs to shoot 10 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 10
+Samson needs to shoot 8 more bullets
+Samson was sent back to the queue. Remaining bullets: 8
+Jacqueline needs to shoot 22 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 22
+Driscoll needs to shoot 8 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 8
+Callie needs to shoot 22 more bullets
+Callie was sent back to the queue. Remaining bullets: 22
+Amela needs to shoot 15 more bullets
+Amela was sent back to the queue. Remaining bullets: 15
+Jana needs to shoot 16 more bullets
+Jana was sent back to the queue. Remaining bullets: 16
+Cameron needs to shoot 9 more bullets
+Cameron was sent back to the queue. Remaining bullets: 9
+Lester needs to shoot 15 more bullets
+Lester was sent back to the queue. Remaining bullets: 15
+Adam needs to shoot 4 more bullets
+Adam was sent back to the queue. Remaining bullets: 4
+Francis needs to shoot 22 more bullets
+Francis was sent back to the queue. Remaining bullets: 22
+Courtney needs to shoot 22 more bullets
+Courtney was sent back to the queue. Remaining bullets: 22
+Jillian needs to shoot 8 more bullets
+Jillian was sent back to the queue. Remaining bullets: 8
+Gil needs to shoot 14 more bullets
+Gil was sent back to the queue. Remaining bullets: 14
+Shay needs to shoot 7 more bullets
+Shay was sent back to the queue. Remaining bullets: 7
+Rylee needs to shoot 20 more bullets
+Rylee was sent back to the queue. Remaining bullets: 20
+Myles needs to shoot 6 more bullets
+Myles was sent back to the queue. Remaining bullets: 6
+Illana needs to shoot 10 more bullets
+Illana was sent back to the queue. Remaining bullets: 10
+Ria needs to shoot 10 more bullets
+Ria was sent back to the queue. Remaining bullets: 10
+Ira needs to shoot 12 more bullets
+Ira was sent back to the queue. Remaining bullets: 12
+Xenos needs to shoot 8 more bullets
+Xenos was sent back to the queue. Remaining bullets: 8
+Athena needs to shoot 12 more bullets
+Athena was sent back to the queue. Remaining bullets: 12
+Linda needs to shoot 4 more bullets
+Linda was sent back to the queue. Remaining bullets: 4
+Armando needs to shoot 9 more bullets
+Armando was sent back to the queue. Remaining bullets: 9
+Zorita needs to shoot 9 more bullets
+Zorita was sent back to the queue. Remaining bullets: 9
+Kevyn needs to shoot 21 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 21
+Ivy needs to shoot 11 more bullets
+Ivy was sent back to the queue. Remaining bullets: 11
+Henry needs to shoot 16 more bullets
+Henry was sent back to the queue. Remaining bullets: 16
+Bree needs to shoot 11 more bullets
+Bree was sent back to the queue. Remaining bullets: 11
+Armando needs to shoot 4 more bullets
+Armando was sent back to the queue. Remaining bullets: 4
+Dean needs to shoot 23 more bullets
+Dean was sent back to the queue. Remaining bullets: 23
+Ray needs to shoot 3 more bullets
+Ray was sent back to the queue. Remaining bullets: 3
+Joseph needs to shoot 8 more bullets
+Joseph was sent back to the queue. Remaining bullets: 8
+Miriam needs to shoot 4 more bullets
+Miriam was sent back to the queue. Remaining bullets: 4
+Zia needs to shoot 3 more bullets
+Zia was sent back to the queue. Remaining bullets: 3
+Ivana needs to shoot 9 more bullets
+Ivana was sent back to the queue. Remaining bullets: 9
+Francesca needs to shoot 19 more bullets
+Francesca was sent back to the queue. Remaining bullets: 19
+Sharon needs to shoot 14 more bullets
+Sharon was sent back to the queue. Remaining bullets: 14
+Ebony needs to shoot 19 more bullets
+Ebony was sent back to the queue. Remaining bullets: 19
+Selma needs to shoot 21 more bullets
+Selma was sent back to the queue. Remaining bullets: 21
+Cameran needs to shoot 11 more bullets
+Cameran was sent back to the queue. Remaining bullets: 11
+Yardley needs to shoot 18 more bullets
+Yardley was sent back to the queue. Remaining bullets: 18
+Erin needs to shoot 4 more bullets
+Erin was sent back to the queue. Remaining bullets: 4
+Cynthia needs to shoot 17 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 17
+Ezra needs to shoot 7 more bullets
+Ezra was sent back to the queue. Remaining bullets: 7
+Amanda needs to shoot 11 more bullets
+Amanda was sent back to the queue. Remaining bullets: 11
+Ruth needs to shoot 8 more bullets
+Ruth was sent back to the queue. Remaining bullets: 8
+Kennan needs to shoot 17 more bullets
+Kennan was sent back to the queue. Remaining bullets: 17
+Kelsie needs to shoot 14 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 14
+Patrick needs to shoot 9 more bullets
+Patrick was sent back to the queue. Remaining bullets: 9
+Anastasia needs to shoot 9 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 9
+Samson needs to shoot 7 more bullets
+Samson was sent back to the queue. Remaining bullets: 7
+Jacqueline needs to shoot 21 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 21
+Driscoll needs to shoot 7 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 7
+Callie needs to shoot 21 more bullets
+Callie was sent back to the queue. Remaining bullets: 21
+Amela needs to shoot 14 more bullets
+Amela was sent back to the queue. Remaining bullets: 14
+Jana needs to shoot 15 more bullets
+Jana was sent back to the queue. Remaining bullets: 15
+Cameron needs to shoot 8 more bullets
+Cameron was sent back to the queue. Remaining bullets: 8
+Lester needs to shoot 14 more bullets
+Lester was sent back to the queue. Remaining bullets: 14
+Adam needs to shoot 3 more bullets
+Adam was sent back to the queue. Remaining bullets: 3
+Francis needs to shoot 21 more bullets
+Francis was sent back to the queue. Remaining bullets: 21
+Courtney needs to shoot 21 more bullets
+Courtney was sent back to the queue. Remaining bullets: 21
+Jillian needs to shoot 7 more bullets
+Jillian was sent back to the queue. Remaining bullets: 7
+Gil needs to shoot 13 more bullets
+Gil was sent back to the queue. Remaining bullets: 13
+Shay needs to shoot 6 more bullets
+Shay was sent back to the queue. Remaining bullets: 6
+Rylee needs to shoot 19 more bullets
+Rylee was sent back to the queue. Remaining bullets: 19
+Myles needs to shoot 5 more bullets
+Myles was sent back to the queue. Remaining bullets: 5
+Illana needs to shoot 9 more bullets
+Illana was sent back to the queue. Remaining bullets: 9
+Ria needs to shoot 9 more bullets
+Ria was sent back to the queue. Remaining bullets: 9
+Ira needs to shoot 11 more bullets
+Ira was sent back to the queue. Remaining bullets: 11
+Xenos needs to shoot 7 more bullets
+Xenos was sent back to the queue. Remaining bullets: 7
+Athena needs to shoot 11 more bullets
+Athena was sent back to the queue. Remaining bullets: 11
+Linda needs to shoot 3 more bullets
+Linda was sent back to the queue. Remaining bullets: 3
+Armando needs to shoot 8 more bullets
+Armando was sent back to the queue. Remaining bullets: 8
+Zorita needs to shoot 8 more bullets
+Zorita was sent back to the queue. Remaining bullets: 8
+Kevyn needs to shoot 20 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 20
+Ivy needs to shoot 10 more bullets
+Ivy was sent back to the queue. Remaining bullets: 10
+Henry needs to shoot 15 more bullets
+Henry was sent back to the queue. Remaining bullets: 15
+Bree needs to shoot 10 more bullets
+Bree was sent back to the queue. Remaining bullets: 10
+Armando needs to shoot 3 more bullets
+Armando was sent back to the queue. Remaining bullets: 3
+Dean needs to shoot 22 more bullets
+Dean was sent back to the queue. Remaining bullets: 22
+Ray needs to shoot 2 more bullets
+Ray was sent back to the queue. Remaining bullets: 2
+Joseph needs to shoot 7 more bullets
+Joseph was sent back to the queue. Remaining bullets: 7
+Miriam needs to shoot 3 more bullets
+Miriam was sent back to the queue. Remaining bullets: 3
+Zia needs to shoot 2 more bullets
+Zia was sent back to the queue. Remaining bullets: 2
+Ivana needs to shoot 8 more bullets
+Ivana was sent back to the queue. Remaining bullets: 8
+Francesca needs to shoot 18 more bullets
+Francesca was sent back to the queue. Remaining bullets: 18
+Sharon needs to shoot 13 more bullets
+Sharon was sent back to the queue. Remaining bullets: 13
+Ebony needs to shoot 18 more bullets
+Ebony was sent back to the queue. Remaining bullets: 18
+Selma needs to shoot 20 more bullets
+Selma was sent back to the queue. Remaining bullets: 20
+Cameran needs to shoot 10 more bullets
+Cameran was sent back to the queue. Remaining bullets: 10
+Yardley needs to shoot 17 more bullets
+Yardley was sent back to the queue. Remaining bullets: 17
+Erin needs to shoot 3 more bullets
+Erin was sent back to the queue. Remaining bullets: 3
+Cynthia needs to shoot 16 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 16
+Ezra needs to shoot 6 more bullets
+Ezra was sent back to the queue. Remaining bullets: 6
+Amanda needs to shoot 10 more bullets
+Amanda was sent back to the queue. Remaining bullets: 10
+Ruth needs to shoot 7 more bullets
+Ruth was sent back to the queue. Remaining bullets: 7
+Kennan needs to shoot 16 more bullets
+Kennan was sent back to the queue. Remaining bullets: 16
+Kelsie needs to shoot 13 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 13
+Patrick needs to shoot 8 more bullets
+Patrick was sent back to the queue. Remaining bullets: 8
+Anastasia needs to shoot 8 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 8
+Samson needs to shoot 6 more bullets
+Samson was sent back to the queue. Remaining bullets: 6
+Jacqueline needs to shoot 20 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 20
+Driscoll needs to shoot 6 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 6
+Callie needs to shoot 20 more bullets
+Callie was sent back to the queue. Remaining bullets: 20
+Amela needs to shoot 13 more bullets
+Amela was sent back to the queue. Remaining bullets: 13
+Jana needs to shoot 14 more bullets
+Jana was sent back to the queue. Remaining bullets: 14
+Cameron needs to shoot 7 more bullets
+Cameron was sent back to the queue. Remaining bullets: 7
+Lester needs to shoot 13 more bullets
+Lester was sent back to the queue. Remaining bullets: 13
+Adam needs to shoot 2 more bullets
+Adam was sent back to the queue. Remaining bullets: 2
+Francis needs to shoot 20 more bullets
+Francis was sent back to the queue. Remaining bullets: 20
+Courtney needs to shoot 20 more bullets
+Courtney was sent back to the queue. Remaining bullets: 20
+Jillian needs to shoot 6 more bullets
+Jillian was sent back to the queue. Remaining bullets: 6
+Gil needs to shoot 12 more bullets
+Gil was sent back to the queue. Remaining bullets: 12
+Shay needs to shoot 5 more bullets
+Shay was sent back to the queue. Remaining bullets: 5
+Rylee needs to shoot 18 more bullets
+Rylee was sent back to the queue. Remaining bullets: 18
+Myles needs to shoot 4 more bullets
+Myles was sent back to the queue. Remaining bullets: 4
+Illana needs to shoot 8 more bullets
+Illana was sent back to the queue. Remaining bullets: 8
+Ria needs to shoot 8 more bullets
+Ria was sent back to the queue. Remaining bullets: 8
+Ira needs to shoot 10 more bullets
+Ira was sent back to the queue. Remaining bullets: 10
+Xenos needs to shoot 6 more bullets
+Xenos was sent back to the queue. Remaining bullets: 6
+Athena needs to shoot 10 more bullets
+Athena was sent back to the queue. Remaining bullets: 10
+Linda needs to shoot 2 more bullets
+Linda was sent back to the queue. Remaining bullets: 2
+Armando needs to shoot 7 more bullets
+Armando was sent back to the queue. Remaining bullets: 7
+Zorita needs to shoot 7 more bullets
+Zorita was sent back to the queue. Remaining bullets: 7
+Kevyn needs to shoot 19 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 19
+Ivy needs to shoot 9 more bullets
+Ivy was sent back to the queue. Remaining bullets: 9
+Henry needs to shoot 14 more bullets
+Henry was sent back to the queue. Remaining bullets: 14
+Bree needs to shoot 9 more bullets
+Bree was sent back to the queue. Remaining bullets: 9
+Armando needs to shoot 2 more bullets
+Armando was sent back to the queue. Remaining bullets: 2
+Dean needs to shoot 21 more bullets
+Dean was sent back to the queue. Remaining bullets: 21
+Ray needs to shoot 1 more bullets
+Ray was sent back to the queue. Remaining bullets: 1
+Joseph needs to shoot 6 more bullets
+Joseph was sent back to the queue. Remaining bullets: 6
+Miriam needs to shoot 2 more bullets
+Miriam was sent back to the queue. Remaining bullets: 2
+Zia needs to shoot 1 more bullets
+Zia was sent back to the queue. Remaining bullets: 1
+Ivana needs to shoot 7 more bullets
+Ivana was sent back to the queue. Remaining bullets: 7
+Francesca needs to shoot 17 more bullets
+Francesca was sent back to the queue. Remaining bullets: 17
+Sharon needs to shoot 12 more bullets
+Sharon was sent back to the queue. Remaining bullets: 12
+Ebony needs to shoot 17 more bullets
+Ebony was sent back to the queue. Remaining bullets: 17
+Selma needs to shoot 19 more bullets
+Selma was sent back to the queue. Remaining bullets: 19
+Cameran needs to shoot 9 more bullets
+Cameran was sent back to the queue. Remaining bullets: 9
+Yardley needs to shoot 16 more bullets
+Yardley was sent back to the queue. Remaining bullets: 16
+Erin needs to shoot 2 more bullets
+Erin was sent back to the queue. Remaining bullets: 2
+Cynthia needs to shoot 15 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 15
+Ezra needs to shoot 5 more bullets
+Ezra was sent back to the queue. Remaining bullets: 5
+Amanda needs to shoot 9 more bullets
+Amanda was sent back to the queue. Remaining bullets: 9
+Ruth needs to shoot 6 more bullets
+Ruth was sent back to the queue. Remaining bullets: 6
+Kennan needs to shoot 15 more bullets
+Kennan was sent back to the queue. Remaining bullets: 15
+Kelsie needs to shoot 12 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 12
+Patrick needs to shoot 7 more bullets
+Patrick was sent back to the queue. Remaining bullets: 7
+Anastasia needs to shoot 7 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 7
+Samson needs to shoot 5 more bullets
+Samson was sent back to the queue. Remaining bullets: 5
+Jacqueline needs to shoot 19 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 19
+Driscoll needs to shoot 5 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 5
+Callie needs to shoot 19 more bullets
+Callie was sent back to the queue. Remaining bullets: 19
+Amela needs to shoot 12 more bullets
+Amela was sent back to the queue. Remaining bullets: 12
+Jana needs to shoot 13 more bullets
+Jana was sent back to the queue. Remaining bullets: 13
+Cameron needs to shoot 6 more bullets
+Cameron was sent back to the queue. Remaining bullets: 6
+Lester needs to shoot 12 more bullets
+Lester was sent back to the queue. Remaining bullets: 12
+Adam needs to shoot 1 more bullets
+Adam was sent back to the queue. Remaining bullets: 1
+Francis needs to shoot 19 more bullets
+Francis was sent back to the queue. Remaining bullets: 19
+Courtney needs to shoot 19 more bullets
+Courtney was sent back to the queue. Remaining bullets: 19
+Jillian needs to shoot 5 more bullets
+Jillian was sent back to the queue. Remaining bullets: 5
+Gil needs to shoot 11 more bullets
+Gil was sent back to the queue. Remaining bullets: 11
+Shay needs to shoot 4 more bullets
+Shay was sent back to the queue. Remaining bullets: 4
+Rylee needs to shoot 17 more bullets
+Rylee was sent back to the queue. Remaining bullets: 17
+Myles needs to shoot 3 more bullets
+Myles was sent back to the queue. Remaining bullets: 3
+Illana needs to shoot 7 more bullets
+Illana was sent back to the queue. Remaining bullets: 7
+Ria needs to shoot 7 more bullets
+Ria was sent back to the queue. Remaining bullets: 7
+Ira needs to shoot 9 more bullets
+Ira was sent back to the queue. Remaining bullets: 9
+Xenos needs to shoot 5 more bullets
+Xenos was sent back to the queue. Remaining bullets: 5
+Athena needs to shoot 9 more bullets
+Athena was sent back to the queue. Remaining bullets: 9
+Linda needs to shoot 1 more bullets
+Linda was sent back to the queue. Remaining bullets: 1
+Armando needs to shoot 6 more bullets
+Armando was sent back to the queue. Remaining bullets: 6
+Zorita needs to shoot 6 more bullets
+Zorita was sent back to the queue. Remaining bullets: 6
+Kevyn needs to shoot 18 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 18
+Ivy needs to shoot 8 more bullets
+Ivy was sent back to the queue. Remaining bullets: 8
+Henry needs to shoot 13 more bullets
+Henry was sent back to the queue. Remaining bullets: 13
+Bree needs to shoot 8 more bullets
+Bree was sent back to the queue. Remaining bullets: 8
+Armando needs to shoot 1 more bullets
+Armando was sent back to the queue. Remaining bullets: 1
+Dean needs to shoot 20 more bullets
+Dean was sent back to the queue. Remaining bullets: 20
+Ray is completed!
+Joseph needs to shoot 5 more bullets
+Joseph was sent back to the queue. Remaining bullets: 5
+Miriam needs to shoot 1 more bullets
+Miriam was sent back to the queue. Remaining bullets: 1
+Zia is completed!
+Ivana needs to shoot 6 more bullets
+Ivana was sent back to the queue. Remaining bullets: 6
+Francesca needs to shoot 16 more bullets
+Francesca was sent back to the queue. Remaining bullets: 16
+Sharon needs to shoot 11 more bullets
+Sharon was sent back to the queue. Remaining bullets: 11
+Ebony needs to shoot 16 more bullets
+Ebony was sent back to the queue. Remaining bullets: 16
+Selma needs to shoot 18 more bullets
+Selma was sent back to the queue. Remaining bullets: 18
+Cameran needs to shoot 8 more bullets
+Cameran was sent back to the queue. Remaining bullets: 8
+Yardley needs to shoot 15 more bullets
+Yardley was sent back to the queue. Remaining bullets: 15
+Erin needs to shoot 1 more bullets
+Erin was sent back to the queue. Remaining bullets: 1
+Cynthia needs to shoot 14 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 14
+Ezra needs to shoot 4 more bullets
+Ezra was sent back to the queue. Remaining bullets: 4
+Amanda needs to shoot 8 more bullets
+Amanda was sent back to the queue. Remaining bullets: 8
+Ruth needs to shoot 5 more bullets
+Ruth was sent back to the queue. Remaining bullets: 5
+Kennan needs to shoot 14 more bullets
+Kennan was sent back to the queue. Remaining bullets: 14
+Kelsie needs to shoot 11 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 11
+Patrick needs to shoot 6 more bullets
+Patrick was sent back to the queue. Remaining bullets: 6
+Anastasia needs to shoot 6 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 6
+Samson needs to shoot 4 more bullets
+Samson was sent back to the queue. Remaining bullets: 4
+Jacqueline needs to shoot 18 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 18
+Driscoll needs to shoot 4 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 4
+Callie needs to shoot 18 more bullets
+Callie was sent back to the queue. Remaining bullets: 18
+Amela needs to shoot 11 more bullets
+Amela was sent back to the queue. Remaining bullets: 11
+Jana needs to shoot 12 more bullets
+Jana was sent back to the queue. Remaining bullets: 12
+Cameron needs to shoot 5 more bullets
+Cameron was sent back to the queue. Remaining bullets: 5
+Lester needs to shoot 11 more bullets
+Lester was sent back to the queue. Remaining bullets: 11
+Adam is completed!
+Francis needs to shoot 18 more bullets
+Francis was sent back to the queue. Remaining bullets: 18
+Courtney needs to shoot 18 more bullets
+Courtney was sent back to the queue. Remaining bullets: 18
+Jillian needs to shoot 4 more bullets
+Jillian was sent back to the queue. Remaining bullets: 4
+Gil needs to shoot 10 more bullets
+Gil was sent back to the queue. Remaining bullets: 10
+Shay needs to shoot 3 more bullets
+Shay was sent back to the queue. Remaining bullets: 3
+Rylee needs to shoot 16 more bullets
+Rylee was sent back to the queue. Remaining bullets: 16
+Myles needs to shoot 2 more bullets
+Myles was sent back to the queue. Remaining bullets: 2
+Illana needs to shoot 6 more bullets
+Illana was sent back to the queue. Remaining bullets: 6
+Ria needs to shoot 6 more bullets
+Ria was sent back to the queue. Remaining bullets: 6
+Ira needs to shoot 8 more bullets
+Ira was sent back to the queue. Remaining bullets: 8
+Xenos needs to shoot 4 more bullets
+Xenos was sent back to the queue. Remaining bullets: 4
+Athena needs to shoot 8 more bullets
+Athena was sent back to the queue. Remaining bullets: 8
+Linda is completed!
+Armando needs to shoot 5 more bullets
+Armando was sent back to the queue. Remaining bullets: 5
+Zorita needs to shoot 5 more bullets
+Zorita was sent back to the queue. Remaining bullets: 5
+Kevyn needs to shoot 17 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 17
+Ivy needs to shoot 7 more bullets
+Ivy was sent back to the queue. Remaining bullets: 7
+Henry needs to shoot 12 more bullets
+Henry was sent back to the queue. Remaining bullets: 12
+Bree needs to shoot 7 more bullets
+Bree was sent back to the queue. Remaining bullets: 7
+Armando is completed!
+Dean needs to shoot 19 more bullets
+Dean was sent back to the queue. Remaining bullets: 19
+Joseph needs to shoot 4 more bullets
+Joseph was sent back to the queue. Remaining bullets: 4
+Miriam is completed!
+Ivana needs to shoot 5 more bullets
+Ivana was sent back to the queue. Remaining bullets: 5
+Francesca needs to shoot 15 more bullets
+Francesca was sent back to the queue. Remaining bullets: 15
+Sharon needs to shoot 10 more bullets
+Sharon was sent back to the queue. Remaining bullets: 10
+Ebony needs to shoot 15 more bullets
+Ebony was sent back to the queue. Remaining bullets: 15
+Selma needs to shoot 17 more bullets
+Selma was sent back to the queue. Remaining bullets: 17
+Cameran needs to shoot 7 more bullets
+Cameran was sent back to the queue. Remaining bullets: 7
+Yardley needs to shoot 14 more bullets
+Yardley was sent back to the queue. Remaining bullets: 14
+Erin is completed!
+Cynthia needs to shoot 13 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 13
+Ezra needs to shoot 3 more bullets
+Ezra was sent back to the queue. Remaining bullets: 3
+Amanda needs to shoot 7 more bullets
+Amanda was sent back to the queue. Remaining bullets: 7
+Ruth needs to shoot 4 more bullets
+Ruth was sent back to the queue. Remaining bullets: 4
+Kennan needs to shoot 13 more bullets
+Kennan was sent back to the queue. Remaining bullets: 13
+Kelsie needs to shoot 10 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 10
+Patrick needs to shoot 5 more bullets
+Patrick was sent back to the queue. Remaining bullets: 5
+Anastasia needs to shoot 5 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 5
+Samson needs to shoot 3 more bullets
+Samson was sent back to the queue. Remaining bullets: 3
+Jacqueline needs to shoot 17 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 17
+Driscoll needs to shoot 3 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 3
+Callie needs to shoot 17 more bullets
+Callie was sent back to the queue. Remaining bullets: 17
+Amela needs to shoot 10 more bullets
+Amela was sent back to the queue. Remaining bullets: 10
+Jana needs to shoot 11 more bullets
+Jana was sent back to the queue. Remaining bullets: 11
+Cameron needs to shoot 4 more bullets
+Cameron was sent back to the queue. Remaining bullets: 4
+Lester needs to shoot 10 more bullets
+Lester was sent back to the queue. Remaining bullets: 10
+Francis needs to shoot 17 more bullets
+Francis was sent back to the queue. Remaining bullets: 17
+Courtney needs to shoot 17 more bullets
+Courtney was sent back to the queue. Remaining bullets: 17
+Jillian needs to shoot 3 more bullets
+Jillian was sent back to the queue. Remaining bullets: 3
+Gil needs to shoot 9 more bullets
+Gil was sent back to the queue. Remaining bullets: 9
+Shay needs to shoot 2 more bullets
+Shay was sent back to the queue. Remaining bullets: 2
+Rylee needs to shoot 15 more bullets
+Rylee was sent back to the queue. Remaining bullets: 15
+Myles needs to shoot 1 more bullets
+Myles was sent back to the queue. Remaining bullets: 1
+Illana needs to shoot 5 more bullets
+Illana was sent back to the queue. Remaining bullets: 5
+Ria needs to shoot 5 more bullets
+Ria was sent back to the queue. Remaining bullets: 5
+Ira needs to shoot 7 more bullets
+Ira was sent back to the queue. Remaining bullets: 7
+Xenos needs to shoot 3 more bullets
+Xenos was sent back to the queue. Remaining bullets: 3
+Athena needs to shoot 7 more bullets
+Athena was sent back to the queue. Remaining bullets: 7
+Armando needs to shoot 4 more bullets
+Armando was sent back to the queue. Remaining bullets: 4
+Zorita needs to shoot 4 more bullets
+Zorita was sent back to the queue. Remaining bullets: 4
+Kevyn needs to shoot 16 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 16
+Ivy needs to shoot 6 more bullets
+Ivy was sent back to the queue. Remaining bullets: 6
+Henry needs to shoot 11 more bullets
+Henry was sent back to the queue. Remaining bullets: 11
+Bree needs to shoot 6 more bullets
+Bree was sent back to the queue. Remaining bullets: 6
+Dean needs to shoot 18 more bullets
+Dean was sent back to the queue. Remaining bullets: 18
+Joseph needs to shoot 3 more bullets
+Joseph was sent back to the queue. Remaining bullets: 3
+Ivana needs to shoot 4 more bullets
+Ivana was sent back to the queue. Remaining bullets: 4
+Francesca needs to shoot 14 more bullets
+Francesca was sent back to the queue. Remaining bullets: 14
+Sharon needs to shoot 9 more bullets
+Sharon was sent back to the queue. Remaining bullets: 9
+Ebony needs to shoot 14 more bullets
+Ebony was sent back to the queue. Remaining bullets: 14
+Selma needs to shoot 16 more bullets
+Selma was sent back to the queue. Remaining bullets: 16
+Cameran needs to shoot 6 more bullets
+Cameran was sent back to the queue. Remaining bullets: 6
+Yardley needs to shoot 13 more bullets
+Yardley was sent back to the queue. Remaining bullets: 13
+Cynthia needs to shoot 12 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 12
+Ezra needs to shoot 2 more bullets
+Ezra was sent back to the queue. Remaining bullets: 2
+Amanda needs to shoot 6 more bullets
+Amanda was sent back to the queue. Remaining bullets: 6
+Ruth needs to shoot 3 more bullets
+Ruth was sent back to the queue. Remaining bullets: 3
+Kennan needs to shoot 12 more bullets
+Kennan was sent back to the queue. Remaining bullets: 12
+Kelsie needs to shoot 9 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 9
+Patrick needs to shoot 4 more bullets
+Patrick was sent back to the queue. Remaining bullets: 4
+Anastasia needs to shoot 4 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 4
+Samson needs to shoot 2 more bullets
+Samson was sent back to the queue. Remaining bullets: 2
+Jacqueline needs to shoot 16 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 16
+Driscoll needs to shoot 2 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 2
+Callie needs to shoot 16 more bullets
+Callie was sent back to the queue. Remaining bullets: 16
+Amela needs to shoot 9 more bullets
+Amela was sent back to the queue. Remaining bullets: 9
+Jana needs to shoot 10 more bullets
+Jana was sent back to the queue. Remaining bullets: 10
+Cameron needs to shoot 3 more bullets
+Cameron was sent back to the queue. Remaining bullets: 3
+Lester needs to shoot 9 more bullets
+Lester was sent back to the queue. Remaining bullets: 9
+Francis needs to shoot 16 more bullets
+Francis was sent back to the queue. Remaining bullets: 16
+Courtney needs to shoot 16 more bullets
+Courtney was sent back to the queue. Remaining bullets: 16
+Jillian needs to shoot 2 more bullets
+Jillian was sent back to the queue. Remaining bullets: 2
+Gil needs to shoot 8 more bullets
+Gil was sent back to the queue. Remaining bullets: 8
+Shay needs to shoot 1 more bullets
+Shay was sent back to the queue. Remaining bullets: 1
+Rylee needs to shoot 14 more bullets
+Rylee was sent back to the queue. Remaining bullets: 14
+Myles is completed!
+Illana needs to shoot 4 more bullets
+Illana was sent back to the queue. Remaining bullets: 4
+Ria needs to shoot 4 more bullets
+Ria was sent back to the queue. Remaining bullets: 4
+Ira needs to shoot 6 more bullets
+Ira was sent back to the queue. Remaining bullets: 6
+Xenos needs to shoot 2 more bullets
+Xenos was sent back to the queue. Remaining bullets: 2
+Athena needs to shoot 6 more bullets
+Athena was sent back to the queue. Remaining bullets: 6
+Armando needs to shoot 3 more bullets
+Armando was sent back to the queue. Remaining bullets: 3
+Zorita needs to shoot 3 more bullets
+Zorita was sent back to the queue. Remaining bullets: 3
+Kevyn needs to shoot 15 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 15
+Ivy needs to shoot 5 more bullets
+Ivy was sent back to the queue. Remaining bullets: 5
+Henry needs to shoot 10 more bullets
+Henry was sent back to the queue. Remaining bullets: 10
+Bree needs to shoot 5 more bullets
+Bree was sent back to the queue. Remaining bullets: 5
+Dean needs to shoot 17 more bullets
+Dean was sent back to the queue. Remaining bullets: 17
+Joseph needs to shoot 2 more bullets
+Joseph was sent back to the queue. Remaining bullets: 2
+Ivana needs to shoot 3 more bullets
+Ivana was sent back to the queue. Remaining bullets: 3
+Francesca needs to shoot 13 more bullets
+Francesca was sent back to the queue. Remaining bullets: 13
+Sharon needs to shoot 8 more bullets
+Sharon was sent back to the queue. Remaining bullets: 8
+Ebony needs to shoot 13 more bullets
+Ebony was sent back to the queue. Remaining bullets: 13
+Selma needs to shoot 15 more bullets
+Selma was sent back to the queue. Remaining bullets: 15
+Cameran needs to shoot 5 more bullets
+Cameran was sent back to the queue. Remaining bullets: 5
+Yardley needs to shoot 12 more bullets
+Yardley was sent back to the queue. Remaining bullets: 12
+Cynthia needs to shoot 11 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 11
+Ezra needs to shoot 1 more bullets
+Ezra was sent back to the queue. Remaining bullets: 1
+Amanda needs to shoot 5 more bullets
+Amanda was sent back to the queue. Remaining bullets: 5
+Ruth needs to shoot 2 more bullets
+Ruth was sent back to the queue. Remaining bullets: 2
+Kennan needs to shoot 11 more bullets
+Kennan was sent back to the queue. Remaining bullets: 11
+Kelsie needs to shoot 8 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 8
+Patrick needs to shoot 3 more bullets
+Patrick was sent back to the queue. Remaining bullets: 3
+Anastasia needs to shoot 3 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 3
+Samson needs to shoot 1 more bullets
+Samson was sent back to the queue. Remaining bullets: 1
+Jacqueline needs to shoot 15 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 15
+Driscoll needs to shoot 1 more bullets
+Driscoll was sent back to the queue. Remaining bullets: 1
+Callie needs to shoot 15 more bullets
+Callie was sent back to the queue. Remaining bullets: 15
+Amela needs to shoot 8 more bullets
+Amela was sent back to the queue. Remaining bullets: 8
+Jana needs to shoot 9 more bullets
+Jana was sent back to the queue. Remaining bullets: 9
+Cameron needs to shoot 2 more bullets
+Cameron was sent back to the queue. Remaining bullets: 2
+Lester needs to shoot 8 more bullets
+Lester was sent back to the queue. Remaining bullets: 8
+Francis needs to shoot 15 more bullets
+Francis was sent back to the queue. Remaining bullets: 15
+Courtney needs to shoot 15 more bullets
+Courtney was sent back to the queue. Remaining bullets: 15
+Jillian needs to shoot 1 more bullets
+Jillian was sent back to the queue. Remaining bullets: 1
+Gil needs to shoot 7 more bullets
+Gil was sent back to the queue. Remaining bullets: 7
+Shay is completed!
+Rylee needs to shoot 13 more bullets
+Rylee was sent back to the queue. Remaining bullets: 13
+Illana needs to shoot 3 more bullets
+Illana was sent back to the queue. Remaining bullets: 3
+Ria needs to shoot 3 more bullets
+Ria was sent back to the queue. Remaining bullets: 3
+Ira needs to shoot 5 more bullets
+Ira was sent back to the queue. Remaining bullets: 5
+Xenos needs to shoot 1 more bullets
+Xenos was sent back to the queue. Remaining bullets: 1
+Athena needs to shoot 5 more bullets
+Athena was sent back to the queue. Remaining bullets: 5
+Armando needs to shoot 2 more bullets
+Armando was sent back to the queue. Remaining bullets: 2
+Zorita needs to shoot 2 more bullets
+Zorita was sent back to the queue. Remaining bullets: 2
+Kevyn needs to shoot 14 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 14
+Ivy needs to shoot 4 more bullets
+Ivy was sent back to the queue. Remaining bullets: 4
+Henry needs to shoot 9 more bullets
+Henry was sent back to the queue. Remaining bullets: 9
+Bree needs to shoot 4 more bullets
+Bree was sent back to the queue. Remaining bullets: 4
+Dean needs to shoot 16 more bullets
+Dean was sent back to the queue. Remaining bullets: 16
+Joseph needs to shoot 1 more bullets
+Joseph was sent back to the queue. Remaining bullets: 1
+Ivana needs to shoot 2 more bullets
+Ivana was sent back to the queue. Remaining bullets: 2
+Francesca needs to shoot 12 more bullets
+Francesca was sent back to the queue. Remaining bullets: 12
+Sharon needs to shoot 7 more bullets
+Sharon was sent back to the queue. Remaining bullets: 7
+Ebony needs to shoot 12 more bullets
+Ebony was sent back to the queue. Remaining bullets: 12
+Selma needs to shoot 14 more bullets
+Selma was sent back to the queue. Remaining bullets: 14
+Cameran needs to shoot 4 more bullets
+Cameran was sent back to the queue. Remaining bullets: 4
+Yardley needs to shoot 11 more bullets
+Yardley was sent back to the queue. Remaining bullets: 11
+Cynthia needs to shoot 10 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 10
+Ezra is completed!
+Amanda needs to shoot 4 more bullets
+Amanda was sent back to the queue. Remaining bullets: 4
+Ruth needs to shoot 1 more bullets
+Ruth was sent back to the queue. Remaining bullets: 1
+Kennan needs to shoot 10 more bullets
+Kennan was sent back to the queue. Remaining bullets: 10
+Kelsie needs to shoot 7 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 7
+Patrick needs to shoot 2 more bullets
+Patrick was sent back to the queue. Remaining bullets: 2
+Anastasia needs to shoot 2 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 2
+Samson is completed!
+Jacqueline needs to shoot 14 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 14
+Driscoll is completed!
+Callie needs to shoot 14 more bullets
+Callie was sent back to the queue. Remaining bullets: 14
+Amela needs to shoot 7 more bullets
+Amela was sent back to the queue. Remaining bullets: 7
+Jana needs to shoot 8 more bullets
+Jana was sent back to the queue. Remaining bullets: 8
+Cameron needs to shoot 1 more bullets
+Cameron was sent back to the queue. Remaining bullets: 1
+Lester needs to shoot 7 more bullets
+Lester was sent back to the queue. Remaining bullets: 7
+Francis needs to shoot 14 more bullets
+Francis was sent back to the queue. Remaining bullets: 14
+Courtney needs to shoot 14 more bullets
+Courtney was sent back to the queue. Remaining bullets: 14
+Jillian is completed!
+Gil needs to shoot 6 more bullets
+Gil was sent back to the queue. Remaining bullets: 6
+Rylee needs to shoot 12 more bullets
+Rylee was sent back to the queue. Remaining bullets: 12
+Illana needs to shoot 2 more bullets
+Illana was sent back to the queue. Remaining bullets: 2
+Ria needs to shoot 2 more bullets
+Ria was sent back to the queue. Remaining bullets: 2
+Ira needs to shoot 4 more bullets
+Ira was sent back to the queue. Remaining bullets: 4
+Xenos is completed!
+Athena needs to shoot 4 more bullets
+Athena was sent back to the queue. Remaining bullets: 4
+Armando needs to shoot 1 more bullets
+Armando was sent back to the queue. Remaining bullets: 1
+Zorita needs to shoot 1 more bullets
+Zorita was sent back to the queue. Remaining bullets: 1
+Kevyn needs to shoot 13 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 13
+Ivy needs to shoot 3 more bullets
+Ivy was sent back to the queue. Remaining bullets: 3
+Henry needs to shoot 8 more bullets
+Henry was sent back to the queue. Remaining bullets: 8
+Bree needs to shoot 3 more bullets
+Bree was sent back to the queue. Remaining bullets: 3
+Dean needs to shoot 15 more bullets
+Dean was sent back to the queue. Remaining bullets: 15
+Joseph is completed!
+Ivana needs to shoot 1 more bullets
+Ivana was sent back to the queue. Remaining bullets: 1
+Francesca needs to shoot 11 more bullets
+Francesca was sent back to the queue. Remaining bullets: 11
+Sharon needs to shoot 6 more bullets
+Sharon was sent back to the queue. Remaining bullets: 6
+Ebony needs to shoot 11 more bullets
+Ebony was sent back to the queue. Remaining bullets: 11
+Selma needs to shoot 13 more bullets
+Selma was sent back to the queue. Remaining bullets: 13
+Cameran needs to shoot 3 more bullets
+Cameran was sent back to the queue. Remaining bullets: 3
+Yardley needs to shoot 10 more bullets
+Yardley was sent back to the queue. Remaining bullets: 10
+Cynthia needs to shoot 9 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 9
+Amanda needs to shoot 3 more bullets
+Amanda was sent back to the queue. Remaining bullets: 3
+Ruth is completed!
+Kennan needs to shoot 9 more bullets
+Kennan was sent back to the queue. Remaining bullets: 9
+Kelsie needs to shoot 6 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 6
+Patrick needs to shoot 1 more bullets
+Patrick was sent back to the queue. Remaining bullets: 1
+Anastasia needs to shoot 1 more bullets
+Anastasia was sent back to the queue. Remaining bullets: 1
+Jacqueline needs to shoot 13 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 13
+Callie needs to shoot 13 more bullets
+Callie was sent back to the queue. Remaining bullets: 13
+Amela needs to shoot 6 more bullets
+Amela was sent back to the queue. Remaining bullets: 6
+Jana needs to shoot 7 more bullets
+Jana was sent back to the queue. Remaining bullets: 7
+Cameron is completed!
+Lester needs to shoot 6 more bullets
+Lester was sent back to the queue. Remaining bullets: 6
+Francis needs to shoot 13 more bullets
+Francis was sent back to the queue. Remaining bullets: 13
+Courtney needs to shoot 13 more bullets
+Courtney was sent back to the queue. Remaining bullets: 13
+Gil needs to shoot 5 more bullets
+Gil was sent back to the queue. Remaining bullets: 5
+Rylee needs to shoot 11 more bullets
+Rylee was sent back to the queue. Remaining bullets: 11
+Illana needs to shoot 1 more bullets
+Illana was sent back to the queue. Remaining bullets: 1
+Ria needs to shoot 1 more bullets
+Ria was sent back to the queue. Remaining bullets: 1
+Ira needs to shoot 3 more bullets
+Ira was sent back to the queue. Remaining bullets: 3
+Athena needs to shoot 3 more bullets
+Athena was sent back to the queue. Remaining bullets: 3
+Armando is completed!
+Zorita is completed!
+Kevyn needs to shoot 12 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 12
+Ivy needs to shoot 2 more bullets
+Ivy was sent back to the queue. Remaining bullets: 2
+Henry needs to shoot 7 more bullets
+Henry was sent back to the queue. Remaining bullets: 7
+Bree needs to shoot 2 more bullets
+Bree was sent back to the queue. Remaining bullets: 2
+Dean needs to shoot 14 more bullets
+Dean was sent back to the queue. Remaining bullets: 14
+Ivana is completed!
+Francesca needs to shoot 10 more bullets
+Francesca was sent back to the queue. Remaining bullets: 10
+Sharon needs to shoot 5 more bullets
+Sharon was sent back to the queue. Remaining bullets: 5
+Ebony needs to shoot 10 more bullets
+Ebony was sent back to the queue. Remaining bullets: 10
+Selma needs to shoot 12 more bullets
+Selma was sent back to the queue. Remaining bullets: 12
+Cameran needs to shoot 2 more bullets
+Cameran was sent back to the queue. Remaining bullets: 2
+Yardley needs to shoot 9 more bullets
+Yardley was sent back to the queue. Remaining bullets: 9
+Cynthia needs to shoot 8 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 8
+Amanda needs to shoot 2 more bullets
+Amanda was sent back to the queue. Remaining bullets: 2
+Kennan needs to shoot 8 more bullets
+Kennan was sent back to the queue. Remaining bullets: 8
+Kelsie needs to shoot 5 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 5
+Patrick is completed!
+Anastasia is completed!
+Jacqueline needs to shoot 12 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 12
+Callie needs to shoot 12 more bullets
+Callie was sent back to the queue. Remaining bullets: 12
+Amela needs to shoot 5 more bullets
+Amela was sent back to the queue. Remaining bullets: 5
+Jana needs to shoot 6 more bullets
+Jana was sent back to the queue. Remaining bullets: 6
+Lester needs to shoot 5 more bullets
+Lester was sent back to the queue. Remaining bullets: 5
+Francis needs to shoot 12 more bullets
+Francis was sent back to the queue. Remaining bullets: 12
+Courtney needs to shoot 12 more bullets
+Courtney was sent back to the queue. Remaining bullets: 12
+Gil needs to shoot 4 more bullets
+Gil was sent back to the queue. Remaining bullets: 4
+Rylee needs to shoot 10 more bullets
+Rylee was sent back to the queue. Remaining bullets: 10
+Illana is completed!
+Ria is completed!
+Ira needs to shoot 2 more bullets
+Ira was sent back to the queue. Remaining bullets: 2
+Athena needs to shoot 2 more bullets
+Athena was sent back to the queue. Remaining bullets: 2
+Kevyn needs to shoot 11 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 11
+Ivy needs to shoot 1 more bullets
+Ivy was sent back to the queue. Remaining bullets: 1
+Henry needs to shoot 6 more bullets
+Henry was sent back to the queue. Remaining bullets: 6
+Bree needs to shoot 1 more bullets
+Bree was sent back to the queue. Remaining bullets: 1
+Dean needs to shoot 13 more bullets
+Dean was sent back to the queue. Remaining bullets: 13
+Francesca needs to shoot 9 more bullets
+Francesca was sent back to the queue. Remaining bullets: 9
+Sharon needs to shoot 4 more bullets
+Sharon was sent back to the queue. Remaining bullets: 4
+Ebony needs to shoot 9 more bullets
+Ebony was sent back to the queue. Remaining bullets: 9
+Selma needs to shoot 11 more bullets
+Selma was sent back to the queue. Remaining bullets: 11
+Cameran needs to shoot 1 more bullets
+Cameran was sent back to the queue. Remaining bullets: 1
+Yardley needs to shoot 8 more bullets
+Yardley was sent back to the queue. Remaining bullets: 8
+Cynthia needs to shoot 7 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 7
+Amanda needs to shoot 1 more bullets
+Amanda was sent back to the queue. Remaining bullets: 1
+Kennan needs to shoot 7 more bullets
+Kennan was sent back to the queue. Remaining bullets: 7
+Kelsie needs to shoot 4 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 4
+Jacqueline needs to shoot 11 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 11
+Callie needs to shoot 11 more bullets
+Callie was sent back to the queue. Remaining bullets: 11
+Amela needs to shoot 4 more bullets
+Amela was sent back to the queue. Remaining bullets: 4
+Jana needs to shoot 5 more bullets
+Jana was sent back to the queue. Remaining bullets: 5
+Lester needs to shoot 4 more bullets
+Lester was sent back to the queue. Remaining bullets: 4
+Francis needs to shoot 11 more bullets
+Francis was sent back to the queue. Remaining bullets: 11
+Courtney needs to shoot 11 more bullets
+Courtney was sent back to the queue. Remaining bullets: 11
+Gil needs to shoot 3 more bullets
+Gil was sent back to the queue. Remaining bullets: 3
+Rylee needs to shoot 9 more bullets
+Rylee was sent back to the queue. Remaining bullets: 9
+Ira needs to shoot 1 more bullets
+Ira was sent back to the queue. Remaining bullets: 1
+Athena needs to shoot 1 more bullets
+Athena was sent back to the queue. Remaining bullets: 1
+Kevyn needs to shoot 10 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 10
+Ivy is completed!
+Henry needs to shoot 5 more bullets
+Henry was sent back to the queue. Remaining bullets: 5
+Bree is completed!
+Dean needs to shoot 12 more bullets
+Dean was sent back to the queue. Remaining bullets: 12
+Francesca needs to shoot 8 more bullets
+Francesca was sent back to the queue. Remaining bullets: 8
+Sharon needs to shoot 3 more bullets
+Sharon was sent back to the queue. Remaining bullets: 3
+Ebony needs to shoot 8 more bullets
+Ebony was sent back to the queue. Remaining bullets: 8
+Selma needs to shoot 10 more bullets
+Selma was sent back to the queue. Remaining bullets: 10
+Cameran is completed!
+Yardley needs to shoot 7 more bullets
+Yardley was sent back to the queue. Remaining bullets: 7
+Cynthia needs to shoot 6 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 6
+Amanda is completed!
+Kennan needs to shoot 6 more bullets
+Kennan was sent back to the queue. Remaining bullets: 6
+Kelsie needs to shoot 3 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 3
+Jacqueline needs to shoot 10 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 10
+Callie needs to shoot 10 more bullets
+Callie was sent back to the queue. Remaining bullets: 10
+Amela needs to shoot 3 more bullets
+Amela was sent back to the queue. Remaining bullets: 3
+Jana needs to shoot 4 more bullets
+Jana was sent back to the queue. Remaining bullets: 4
+Lester needs to shoot 3 more bullets
+Lester was sent back to the queue. Remaining bullets: 3
+Francis needs to shoot 10 more bullets
+Francis was sent back to the queue. Remaining bullets: 10
+Courtney needs to shoot 10 more bullets
+Courtney was sent back to the queue. Remaining bullets: 10
+Gil needs to shoot 2 more bullets
+Gil was sent back to the queue. Remaining bullets: 2
+Rylee needs to shoot 8 more bullets
+Rylee was sent back to the queue. Remaining bullets: 8
+Ira is completed!
+Athena is completed!
+Kevyn needs to shoot 9 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 9
+Henry needs to shoot 4 more bullets
+Henry was sent back to the queue. Remaining bullets: 4
+Dean needs to shoot 11 more bullets
+Dean was sent back to the queue. Remaining bullets: 11
+Francesca needs to shoot 7 more bullets
+Francesca was sent back to the queue. Remaining bullets: 7
+Sharon needs to shoot 2 more bullets
+Sharon was sent back to the queue. Remaining bullets: 2
+Ebony needs to shoot 7 more bullets
+Ebony was sent back to the queue. Remaining bullets: 7
+Selma needs to shoot 9 more bullets
+Selma was sent back to the queue. Remaining bullets: 9
+Yardley needs to shoot 6 more bullets
+Yardley was sent back to the queue. Remaining bullets: 6
+Cynthia needs to shoot 5 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 5
+Kennan needs to shoot 5 more bullets
+Kennan was sent back to the queue. Remaining bullets: 5
+Kelsie needs to shoot 2 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 2
+Jacqueline needs to shoot 9 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 9
+Callie needs to shoot 9 more bullets
+Callie was sent back to the queue. Remaining bullets: 9
+Amela needs to shoot 2 more bullets
+Amela was sent back to the queue. Remaining bullets: 2
+Jana needs to shoot 3 more bullets
+Jana was sent back to the queue. Remaining bullets: 3
+Lester needs to shoot 2 more bullets
+Lester was sent back to the queue. Remaining bullets: 2
+Francis needs to shoot 9 more bullets
+Francis was sent back to the queue. Remaining bullets: 9
+Courtney needs to shoot 9 more bullets
+Courtney was sent back to the queue. Remaining bullets: 9
+Gil needs to shoot 1 more bullets
+Gil was sent back to the queue. Remaining bullets: 1
+Rylee needs to shoot 7 more bullets
+Rylee was sent back to the queue. Remaining bullets: 7
+Kevyn needs to shoot 8 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 8
+Henry needs to shoot 3 more bullets
+Henry was sent back to the queue. Remaining bullets: 3
+Dean needs to shoot 10 more bullets
+Dean was sent back to the queue. Remaining bullets: 10
+Francesca needs to shoot 6 more bullets
+Francesca was sent back to the queue. Remaining bullets: 6
+Sharon needs to shoot 1 more bullets
+Sharon was sent back to the queue. Remaining bullets: 1
+Ebony needs to shoot 6 more bullets
+Ebony was sent back to the queue. Remaining bullets: 6
+Selma needs to shoot 8 more bullets
+Selma was sent back to the queue. Remaining bullets: 8
+Yardley needs to shoot 5 more bullets
+Yardley was sent back to the queue. Remaining bullets: 5
+Cynthia needs to shoot 4 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 4
+Kennan needs to shoot 4 more bullets
+Kennan was sent back to the queue. Remaining bullets: 4
+Kelsie needs to shoot 1 more bullets
+Kelsie was sent back to the queue. Remaining bullets: 1
+Jacqueline needs to shoot 8 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 8
+Callie needs to shoot 8 more bullets
+Callie was sent back to the queue. Remaining bullets: 8
+Amela needs to shoot 1 more bullets
+Amela was sent back to the queue. Remaining bullets: 1
+Jana needs to shoot 2 more bullets
+Jana was sent back to the queue. Remaining bullets: 2
+Lester needs to shoot 1 more bullets
+Lester was sent back to the queue. Remaining bullets: 1
+Francis needs to shoot 8 more bullets
+Francis was sent back to the queue. Remaining bullets: 8
+Courtney needs to shoot 8 more bullets
+Courtney was sent back to the queue. Remaining bullets: 8
+Gil is completed!
+Rylee needs to shoot 6 more bullets
+Rylee was sent back to the queue. Remaining bullets: 6
+Kevyn needs to shoot 7 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 7
+Henry needs to shoot 2 more bullets
+Henry was sent back to the queue. Remaining bullets: 2
+Dean needs to shoot 9 more bullets
+Dean was sent back to the queue. Remaining bullets: 9
+Francesca needs to shoot 5 more bullets
+Francesca was sent back to the queue. Remaining bullets: 5
+Sharon is completed!
+Ebony needs to shoot 5 more bullets
+Ebony was sent back to the queue. Remaining bullets: 5
+Selma needs to shoot 7 more bullets
+Selma was sent back to the queue. Remaining bullets: 7
+Yardley needs to shoot 4 more bullets
+Yardley was sent back to the queue. Remaining bullets: 4
+Cynthia needs to shoot 3 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 3
+Kennan needs to shoot 3 more bullets
+Kennan was sent back to the queue. Remaining bullets: 3
+Kelsie is completed!
+Jacqueline needs to shoot 7 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 7
+Callie needs to shoot 7 more bullets
+Callie was sent back to the queue. Remaining bullets: 7
+Amela is completed!
+Jana needs to shoot 1 more bullets
+Jana was sent back to the queue. Remaining bullets: 1
+Lester is completed!
+Francis needs to shoot 7 more bullets
+Francis was sent back to the queue. Remaining bullets: 7
+Courtney needs to shoot 7 more bullets
+Courtney was sent back to the queue. Remaining bullets: 7
+Rylee needs to shoot 5 more bullets
+Rylee was sent back to the queue. Remaining bullets: 5
+Kevyn needs to shoot 6 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 6
+Henry needs to shoot 1 more bullets
+Henry was sent back to the queue. Remaining bullets: 1
+Dean needs to shoot 8 more bullets
+Dean was sent back to the queue. Remaining bullets: 8
+Francesca needs to shoot 4 more bullets
+Francesca was sent back to the queue. Remaining bullets: 4
+Ebony needs to shoot 4 more bullets
+Ebony was sent back to the queue. Remaining bullets: 4
+Selma needs to shoot 6 more bullets
+Selma was sent back to the queue. Remaining bullets: 6
+Yardley needs to shoot 3 more bullets
+Yardley was sent back to the queue. Remaining bullets: 3
+Cynthia needs to shoot 2 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 2
+Kennan needs to shoot 2 more bullets
+Kennan was sent back to the queue. Remaining bullets: 2
+Jacqueline needs to shoot 6 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 6
+Callie needs to shoot 6 more bullets
+Callie was sent back to the queue. Remaining bullets: 6
+Jana is completed!
+Francis needs to shoot 6 more bullets
+Francis was sent back to the queue. Remaining bullets: 6
+Courtney needs to shoot 6 more bullets
+Courtney was sent back to the queue. Remaining bullets: 6
+Rylee needs to shoot 4 more bullets
+Rylee was sent back to the queue. Remaining bullets: 4
+Kevyn needs to shoot 5 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 5
+Henry is completed!
+Dean needs to shoot 7 more bullets
+Dean was sent back to the queue. Remaining bullets: 7
+Francesca needs to shoot 3 more bullets
+Francesca was sent back to the queue. Remaining bullets: 3
+Ebony needs to shoot 3 more bullets
+Ebony was sent back to the queue. Remaining bullets: 3
+Selma needs to shoot 5 more bullets
+Selma was sent back to the queue. Remaining bullets: 5
+Yardley needs to shoot 2 more bullets
+Yardley was sent back to the queue. Remaining bullets: 2
+Cynthia needs to shoot 1 more bullets
+Cynthia was sent back to the queue. Remaining bullets: 1
+Kennan needs to shoot 1 more bullets
+Kennan was sent back to the queue. Remaining bullets: 1
+Jacqueline needs to shoot 5 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 5
+Callie needs to shoot 5 more bullets
+Callie was sent back to the queue. Remaining bullets: 5
+Francis needs to shoot 5 more bullets
+Francis was sent back to the queue. Remaining bullets: 5
+Courtney needs to shoot 5 more bullets
+Courtney was sent back to the queue. Remaining bullets: 5
+Rylee needs to shoot 3 more bullets
+Rylee was sent back to the queue. Remaining bullets: 3
+Kevyn needs to shoot 4 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 4
+Dean needs to shoot 6 more bullets
+Dean was sent back to the queue. Remaining bullets: 6
+Francesca needs to shoot 2 more bullets
+Francesca was sent back to the queue. Remaining bullets: 2
+Ebony needs to shoot 2 more bullets
+Ebony was sent back to the queue. Remaining bullets: 2
+Selma needs to shoot 4 more bullets
+Selma was sent back to the queue. Remaining bullets: 4
+Yardley needs to shoot 1 more bullets
+Yardley was sent back to the queue. Remaining bullets: 1
+Cynthia is completed!
+Kennan is completed!
+Jacqueline needs to shoot 4 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 4
+Callie needs to shoot 4 more bullets
+Callie was sent back to the queue. Remaining bullets: 4
+Francis needs to shoot 4 more bullets
+Francis was sent back to the queue. Remaining bullets: 4
+Courtney needs to shoot 4 more bullets
+Courtney was sent back to the queue. Remaining bullets: 4
+Rylee needs to shoot 2 more bullets
+Rylee was sent back to the queue. Remaining bullets: 2
+Kevyn needs to shoot 3 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 3
+Dean needs to shoot 5 more bullets
+Dean was sent back to the queue. Remaining bullets: 5
+Francesca needs to shoot 1 more bullets
+Francesca was sent back to the queue. Remaining bullets: 1
+Ebony needs to shoot 1 more bullets
+Ebony was sent back to the queue. Remaining bullets: 1
+Selma needs to shoot 3 more bullets
+Selma was sent back to the queue. Remaining bullets: 3
+Yardley is completed!
+Jacqueline needs to shoot 3 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 3
+Callie needs to shoot 3 more bullets
+Callie was sent back to the queue. Remaining bullets: 3
+Francis needs to shoot 3 more bullets
+Francis was sent back to the queue. Remaining bullets: 3
+Courtney needs to shoot 3 more bullets
+Courtney was sent back to the queue. Remaining bullets: 3
+Rylee needs to shoot 1 more bullets
+Rylee was sent back to the queue. Remaining bullets: 1
+Kevyn needs to shoot 2 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 2
+Dean needs to shoot 4 more bullets
+Dean was sent back to the queue. Remaining bullets: 4
+Francesca is completed!
+Ebony is completed!
+Selma needs to shoot 2 more bullets
+Selma was sent back to the queue. Remaining bullets: 2
+Jacqueline needs to shoot 2 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 2
+Callie needs to shoot 2 more bullets
+Callie was sent back to the queue. Remaining bullets: 2
+Francis needs to shoot 2 more bullets
+Francis was sent back to the queue. Remaining bullets: 2
+Courtney needs to shoot 2 more bullets
+Courtney was sent back to the queue. Remaining bullets: 2
+Rylee is completed!
+Kevyn needs to shoot 1 more bullets
+Kevyn was sent back to the queue. Remaining bullets: 1
+Dean needs to shoot 3 more bullets
+Dean was sent back to the queue. Remaining bullets: 3
+Selma needs to shoot 1 more bullets
+Selma was sent back to the queue. Remaining bullets: 1
+Jacqueline needs to shoot 1 more bullets
+Jacqueline was sent back to the queue. Remaining bullets: 1
+Callie needs to shoot 1 more bullets
+Callie was sent back to the queue. Remaining bullets: 1
+Francis needs to shoot 1 more bullets
+Francis was sent back to the queue. Remaining bullets: 1
+Courtney needs to shoot 1 more bullets
+Courtney was sent back to the queue. Remaining bullets: 1
+Kevyn is completed!
+Dean needs to shoot 2 more bullets
+Dean was sent back to the queue. Remaining bullets: 2
+Selma is completed!
+Jacqueline is completed!
+Callie is completed!
+Francis is completed!
+Courtney is completed!
+Dean needs to shoot 1 more bullets
+Dean was sent back to the queue. Remaining bullets: 1
+Dean is completed!
